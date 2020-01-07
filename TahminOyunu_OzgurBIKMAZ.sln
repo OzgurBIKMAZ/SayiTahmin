@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TahminOyunu_OzgurBIKMAZ", "TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ.csproj", "{A8F7D91E-23C9-4A7B-80A0-C14DCFA04A8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F7D91E-23C9-4A7B-80A0-C14DCFA04A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F7D91E-23C9-4A7B-80A0-C14DCFA04A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F7D91E-23C9-4A7B-80A0-C14DCFA04A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F7D91E-23C9-4A7B-80A0-C14DCFA04A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF5E4291-DB03-4A4A-BD8E-50D1F9749040}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/zgrbkmz
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TahminOyunu_OzgurBIKMAZ\\TahminOyunu_OzgurBIKMAZ.csproj
+		SccProjectName1 = TahminOyunu_OzgurBIKMAZ
+		SccLocalPath1 = TahminOyunu_OzgurBIKMAZ
+	EndGlobalSection
+EndGlobal

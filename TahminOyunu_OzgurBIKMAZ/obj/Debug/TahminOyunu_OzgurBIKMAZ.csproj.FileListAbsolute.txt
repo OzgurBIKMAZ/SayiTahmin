@@ -1,0 +1,6 @@
+D:\C#Projects\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\bin\Debug\TahminOyunu_OzgurBIKMAZ.exe.config
+D:\C#Projects\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\bin\Debug\TahminOyunu_OzgurBIKMAZ.exe
+D:\C#Projects\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\bin\Debug\TahminOyunu_OzgurBIKMAZ.pdb
+D:\C#Projects\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\obj\Debug\TahminOyunu_OzgurBIKMAZ.csprojAssemblyReference.cache
+D:\C#Projects\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\obj\Debug\TahminOyunu_OzgurBIKMAZ.exe
+D:\C#Projects\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\TahminOyunu_OzgurBIKMAZ\obj\Debug\TahminOyunu_OzgurBIKMAZ.pdb
